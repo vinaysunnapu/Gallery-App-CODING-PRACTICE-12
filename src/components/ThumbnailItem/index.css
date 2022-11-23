@@ -1,0 +1,13 @@
+/* Write your code here. */
+.thumbnail-image {
+  height: 50px;
+  width: 50px;
+}
+.list-container {
+  margin: 10px;
+  list-style-type: none;
+}
+.button-style {
+  background-color: transparent;
+  border: none;
+}
